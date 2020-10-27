@@ -11,6 +11,7 @@ flask-pymongo = "*"
 python-dotenv = "*"
 dnspython = "*"
 shortid = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.8"
